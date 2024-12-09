@@ -1,8 +1,9 @@
 /*  your css code here. If applicable */
 .block-heading {
+	width:100%;
     text-align: center;
 }
-.block-heading-p{
+.block-heading p{
     text-align: center;
 	
 }
